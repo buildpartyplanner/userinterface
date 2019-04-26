@@ -55,7 +55,7 @@ h6 {
  * LINK STYLE
  *------------------------------------------*/
 a {
-    color              : #82b541;
+    color              : #49fcd4;
     text-decoration    : none;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
@@ -108,7 +108,7 @@ ul {
 
 /*btn-primary*/
 .btn-primary {
-    background-color : #82b541;
+    background-color : #49fcd4;
     }
 
 .btn-primary:hover,
@@ -395,7 +395,7 @@ button:focus,
     display       : block;
     border        : 2px solid #cccccc;
     border-radius : 100%;
-    color         : #82b541;
+    color         : #49fcd4;
     margin        : 0 auto;
     }
 
@@ -519,8 +519,8 @@ button:focus,
     }
 
 #testimonialSlider .carousel-indicators .active {
-    background-color : #82b541;
-    border-color     : #82b541;
+    background-color : #49fcd4;
+    border-color     : #49fcd4;
     }
 
 @media (max-width : 768px) {
@@ -547,7 +547,7 @@ button:focus,
 .call-to-action {
     padding          : 80px 0;
     color            : #ffffff;
-    background-color : #82b541;
+    background-color : #49fcd4;
     }
 
 .call-to-action h2 {
