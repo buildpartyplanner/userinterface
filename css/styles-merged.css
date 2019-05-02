@@ -6749,14 +6749,14 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-hero.probootstrap-xs-hero .probootstrap-hero-text {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 140px;
+  padding-bottom: 0px;
 }
 
 @media screen and (max-width: 768px) {
   .probootstrap-hero.probootstrap-xs-hero .probootstrap-hero-text {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 100px;
+    padding-bottom: 0px;
   }
 }
 
@@ -6814,7 +6814,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-hero.probootstrap-hero-colored h1 {
-  color: white;
+  color: #181920;
 }
 
 .probootstrap-hero.probootstrap-hero-colored p {
