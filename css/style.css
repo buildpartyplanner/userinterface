@@ -618,9 +618,9 @@ button:focus,
 
 
 
-#contactus {
-    margin-right : 30px;
-    margin-left : 30px;
+.contents {
+    margin-right : 120px;
+    margin-left : 60px;
 }
 /* --------------------------------------------
  *   Footer
