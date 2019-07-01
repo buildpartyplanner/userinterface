@@ -6576,7 +6576,7 @@ a:hover, a:focus, a:active {
     width: 150px;
     height: 43px;
     background: url(../img/logo.png) no-repeat left center;
-    background-size: cover;
+    /* background-size: cover; */
   }
 }
 
